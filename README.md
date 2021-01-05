@@ -6,7 +6,7 @@ Siapin alat dan bahannya.
 ```bash
 > niat
 > 2 handphone (1 buat jalanin sc, 1 buat scan qr)
-> internet yang memadai, kalo lu gapunya kuota pake kuota kemendikbud ae cara ubah nya udah ada di channel ridho setiawan
+> internet yang memadai
 > aplikasi whatsapp
 > aplikasi termux
 > kopi
