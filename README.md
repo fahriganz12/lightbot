@@ -1,5 +1,5 @@
-# ridhobot
-BOT WHATSAPP HP RIDHO SETIAWAN
+# lightbotv2
+BOT WHATSAPP HP FAHRI GANZ
 
 ### Alat dan Bahan
 Siapin alat dan bahannya.
