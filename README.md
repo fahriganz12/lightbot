@@ -51,4 +51,4 @@ Sebelum lu jalanin sc nya install dulu lah.
 [`ARIS187 ID`](https://github.com/A187ID)
 
 ### Donate
-* DANA/PULSA  081289096745
+* GOPAY/PULSA : 082277719178
